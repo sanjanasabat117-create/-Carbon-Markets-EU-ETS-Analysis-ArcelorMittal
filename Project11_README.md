@@ -115,29 +115,6 @@ Ranks decarbonisation levers (energy efficiency, fuel switching, green hydrogen 
 
 ---
 
-## How to Run
-
-```bash
-# Clone the repository
-git clone https://github.com/sanjanasabat117-create/-Carbon-Markets-EU-ETS-Analysis-ArcelorMittal.git
-cd -Carbon-Markets-EU-ETS-Analysis-ArcelorMittal
-
-# Install dependencies
-pip install pandas openpyxl matplotlib seaborn numpy
-
-# Run analysis
-python notebooks/carbon_markets_analysis.py
-```
-
----
-
-## Relevance to ESG Roles
-
-This project is directly relevant to:
-- **Carbon Advisory / Net Zero Consulting** — scenario modelling, MACC curves, transition risk
-- **ESG Reporting Specialist** — GHG protocol application, TCFD risk disclosure
-- **Sustainability Analyst** — real company data analysis, EU regulatory compliance
-- **Climate Risk Analyst** — physical and transition risk quantification under TCFD
 
 ---
 
